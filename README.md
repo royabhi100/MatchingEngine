@@ -7,5 +7,7 @@ Orders can be Modified and/or Cancelled .
 
 Order matching needs to follow  Price-Time priority .
 
+Order matching results in TRADE , which is reported.
+
 A PRINT request to show current Book aggregated on Quantity by unique Price value for both Buy and Sell 
 
