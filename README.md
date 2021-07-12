@@ -1,5 +1,5 @@
 # Exchange Order Matching Engine
-##C++ Order Matching Engine
+**C++ Order Matching Engine**
 
 An Exchange matching Engine to process both GFD (Good for Day) and IOC (Immediate or Cancel) type of orders for both BUY and SELL. 
 
